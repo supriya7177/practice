@@ -8,7 +8,7 @@ public class PP1
 //		int b=50;
 //		int c=30;
 		int n=-4;
-		
+		 int abcsg;
 //		if(a>b)
 //		{
 //			if(a>c)
